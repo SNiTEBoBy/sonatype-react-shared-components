@@ -60,7 +60,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.15.2",
     "@fortawesome/react-fontawesome": "^0.1.14",
     "@sonatype/react-shared-components": "link:../lib/dist",
-    "axios": "^0.21.1",
+    "axios": "^1.13.5",
     "classnames": "^2.2.6",
     "core-js": "^3.8.3",
     "es6-object-assign": "^1.1.0",
